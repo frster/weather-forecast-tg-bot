@@ -1,4 +1,4 @@
-# weather-forecast-tg-bot
+# Weather-forecast-tg-bot
 **Telegram-Bot on the topic: Weather Forecast**
 
 # INSTALL IN THE CONSOLE
